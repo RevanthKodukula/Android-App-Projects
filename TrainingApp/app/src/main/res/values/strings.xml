@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrainingApp</string>
+    <string name="phone_log">Phone Log</string>
+    <string name="gallery">Gallery</string>
+    <string name="enter_number_of_calls">Enter number of calls</string>
+    <string name="fetch_calls">Fetch Calls</string>
+    <string name="clear">Clear</string>
+
+</resources>
